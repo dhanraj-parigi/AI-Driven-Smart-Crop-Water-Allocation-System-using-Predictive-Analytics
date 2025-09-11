@@ -80,7 +80,6 @@ Output:
 
 📸 Screenshots
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-08 202254" src="https://github.com/user-attachments/assets/198d6ac6-8461-406c-8f84-85659529610f" />
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-09 195127" src="https://github.com/user-attachments/assets/b299d3cc-460a-472f-9405-83deb3db0c39" />
 
