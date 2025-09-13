@@ -70,6 +70,10 @@ Rainfall: 23 mm
 
 Soil Moisture: 5%
 
+Enter Area: 142
+
+Enter Production: 118
+
 Output:
 
 💧 Water Allocated: 72.5%
@@ -80,14 +84,25 @@ Output:
 
 📸 Screenshots
 
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 191904" src="https://github.com/user-attachments/assets/17da78a7-3d04-4e5f-827e-7271dfa2268c" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-09 195127" src="https://github.com/user-attachments/assets/b299d3cc-460a-472f-9405-83deb3db0c39" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 191916" src="https://github.com/user-attachments/assets/aaccb4e5-daa7-43e2-9e94-b2d037efe13a" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-09 195144" src="https://github.com/user-attachments/assets/fe96e7ac-b528-4657-ac0f-65de18fc413f" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 191935" src="https://github.com/user-attachments/assets/61052566-1d4b-415e-8fd8-6e1ef9c803a8" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-09 195157" src="https://github.com/user-attachments/assets/133c5036-910e-4a97-b98d-a22e480febe2" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 191945" src="https://github.com/user-attachments/assets/21fe3a1f-9b35-4d3f-bcc6-c6452322b84c" />
 
-<img width="1920" height="1080" alt="Screenshot 2025-09-09 195208" src="https://github.com/user-attachments/assets/1ad35ca6-9e9f-42e1-b6bb-66b0b288571b" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-13 192006" src="https://github.com/user-attachments/assets/699f401b-24ff-4ae0-b0a8-da36a2ab3130" />
+
+
+
+
+🎥 Sample Video 
+
+
+https://github.com/user-attachments/assets/63dfeed9-b8bd-429b-9668-fdd828cbee85
+
+
 
 
 ⚡ How to Run Locally
