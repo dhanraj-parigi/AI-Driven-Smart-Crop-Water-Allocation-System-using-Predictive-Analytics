@@ -103,6 +103,13 @@ Output:
 https://github.com/user-attachments/assets/63dfeed9-b8bd-429b-9668-fdd828cbee85
 
 
+## 🌐 Live Demo
+Try the app here 👉 [Streamlit App](https://ai-driven-smart-crop-water-allocation-system-using-predictive.streamlit.app/)
+
+
+
+
+
 
 
 ⚡ How to Run Locally
