@@ -7,6 +7,12 @@ import plotly.express as px
 # ==========================
 # Load trained model, scaler, encoder
 # ==========================
+#Download only the large model if not present
+model_path = "best_model_RandomForest.pkl"
+file_id = "1TxBM8F164ohAS5He1Lglk5ea-0pmND0L"  # Your Drive file ID
+url = f"https://drive.google.com/uc?id={file_id}"
+
+
 model = joblib.load("best_model_RandomForest.pkl")  # change if best is different
 scaler = joblib.load("scaler.pkl")
 label_encoder = joblib.load("crop_label_encoder.pkl")
@@ -92,3 +98,4 @@ if st.button("Predict Water Allocation"):
     )
     fig_line.update_yaxes(range=[0, 100])
     st.plotly_chart(fig_line)
+
